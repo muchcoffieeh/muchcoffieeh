@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. I'm building movement stuff.
 
 <!--
 **muchcoffieeh/muchcoffieeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
